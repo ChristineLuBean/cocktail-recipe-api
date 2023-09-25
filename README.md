@@ -1,7 +1,7 @@
 # Cocktail Recipes Web Application
 A website offering numerous cocktail recipes from the CocktailDB API, simplifying the discovery and preparation of various beverages.
 
-**Link to project:**
+**Link to project:** https://prismatic-heliotrope-931e51.netlify.app/
 
 ![screenshot of cocktail recipes carousel web application](https://raw.githubusercontent.com/ChristineLuBean/cocktail-recipe-api/main/screenshot/cocktail-carousel.png)
 ![screenshot of cocktail recipes web application](https://raw.githubusercontent.com/ChristineLuBean/cocktail-recipe-api/main/screenshot/cocktail-recipe.png)
