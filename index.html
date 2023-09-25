@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+    	<meta charset="utf-8">
+    	<meta name="description" content="This is where your description goes">
+    	<meta name="keywords" content="one, two, three">
+
+		<title>Cocktail Recipes</title>
+
+		<!-- external CSS link -->
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Oswald&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+		<h1>Cocktail Recipes</h1>
+		<section>
+			<input type="input" name="" value="" placeholder="cocktail name">
+			<button type="button" name="button">Send</button>
+		</section>
+		<section id="cocktail-carousel" class="">
+			<div class="carousel">
+				<div class="slides">
+					<div class="slide">
+						<h1 id="cocktail-name-0"></h1>
+						<img id="cocktail-0" class="cocktail" src="" alt="">
+					</div>
+					<div class="slide">
+						<h1 id="cocktail-name-1"></h1>
+						<img id="cocktail-1" class="cocktail" src="" alt="">
+					</div>
+					<div class="slide">
+						<h1 id="cocktail-name-2"></h1>
+						<img id="cocktail-2" class="cocktail" src="" alt="">
+					</div>
+					<div class="slide">
+						<h1 id="cocktail-name-3"></h1>
+						<img id="cocktail-3" class="cocktail" src="" alt="">
+					</div>
+					<div class="slide">
+						<h1 id="cocktail-name-4"></h1>
+						<img id="cocktail-4" class="cocktail" src="" alt="">
+					</div>
+				</div>
+				<div class="carousel-controls">
+					<span class="prev">◀</span>
+					<span class="next">▶</span>
+				</div>
+				<div class="carousel-indicators"></div>
+			</div>
+		</section>
+		<section id="cocktail-recipe" class="hidden">
+			<h2 id="selected-cocktail-name"></h2>
+			<img src="" id="selected-cocktail-image" alt="">
+			<div id="selected-cocktail-recipe">
+				<ul id="ingredients"></ul>
+				<p id="instructions"></p>
+			</div>
+		</section>
+		<script type="text/javascript" src="js/main.js"></script>
+		<script type="text/javascript" src="js/carousel.js"></script>
+	</body>
+</html>
