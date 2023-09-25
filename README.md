@@ -3,8 +3,8 @@ A website offering numerous cocktail recipes from the CocktailDB API, simplifyin
 
 **Link to project:**
 
-![screenshot of cocktail recipes web application](http://placecorgi.com/1200/650)
-
+![screenshot of cocktail recipes carousel web application](https://raw.githubusercontent.com/ChristineLuBean/cocktail-recipe-api/main/screenshot/cocktail-carousel.png)
+![screenshot of cocktail recipes web application](https://raw.githubusercontent.com/ChristineLuBean/cocktail-recipe-api/main/screenshot/cocktail-recipe.png)
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript
